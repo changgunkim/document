@@ -1,5 +1,5 @@
-url: "https://developers-doc.nugu.co.kr"
-base_url: ""
+url: "https://changgunkim.github.io"
+baseurl: "/document"
 
 exclude:
   - "*.iml"
